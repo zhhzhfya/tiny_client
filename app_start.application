@@ -8,7 +8,7 @@
         <beforeApplicationStartup />
       </update>
     </subscription>
-    <deploymentProvider codebase="http://192.168.2.186/C%3A/publish/RhTinyClient/app_start.application" />
+    <deploymentProvider codebase="https://zhhzhfya.github.io/tiny_client/app_start.application" />
   </deployment>
   <dependency>
     <dependentAssembly dependencyType="install" codebase="Application Files\app_start_1_0_0_22\app_start.exe.manifest" size="9042">
